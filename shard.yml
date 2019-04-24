@@ -11,3 +11,11 @@ targets:
 crystal: 0.28.0
 
 license: MIT
+
+dependencies:
+  onyx:
+    github: onyxframework/onyx
+    version: ~> 0.4.0
+  onyx-http:
+    github: onyxframework/http
+    version: ~> 0.8.0
