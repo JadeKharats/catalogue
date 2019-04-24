@@ -1,0 +1,13 @@
+name: catalogue
+version: 0.1.0
+
+authors:
+  - Jade D. Kharats <jade@localhost.localdomain>
+
+targets:
+  catalogue:
+    main: src/catalogue.cr
+
+crystal: 0.28.0
+
+license: MIT
