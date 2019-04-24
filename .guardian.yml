@@ -1,11 +1,5 @@
 files: ./src/**/*.cr
-run: crystal spec
----
-files: ./src/**/*.cr
 run: ameba
 ---
 files: ./shard.yml
 run: shards install
----
-files: ./spec/**/*.cr
-run: crystal spec
